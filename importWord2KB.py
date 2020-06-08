@@ -20,8 +20,8 @@ def next_element(elem):
 pages=[]
 page=[]
 
-#issue, cause, resolution environment are sections of page. 
-# In this case, page is a object and issue, resolution, cause etc 
+#issue, cause, resolution environment are sections of page.
+# In this case, page is a object and issue, resolution, cause etc
 # refer to specific elements of the object containing the text.
 issue = 0
 resolution = 1
